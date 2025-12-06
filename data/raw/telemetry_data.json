@@ -1,0 +1,1802 @@
+[
+    {
+        "vehicle_id": "EV001",
+        "speed": 27.93,
+        "battery_temp": 44.01,
+        "motor_torque": 184.6,
+        "energy_consumption": 8.4,
+        "outside_temp": 18.79,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 60.24,
+        "battery_temp": 38.83,
+        "motor_torque": 263.65,
+        "energy_consumption": 16.72,
+        "outside_temp": 25.6,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 73.32,
+        "battery_temp": 28.65,
+        "motor_torque": 280.41,
+        "energy_consumption": 16.6,
+        "outside_temp": 34.68,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 70.36,
+        "battery_temp": 33.43,
+        "motor_torque": 272.25,
+        "energy_consumption": 13.66,
+        "outside_temp": 33.75,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 36.98,
+        "battery_temp": 25.51,
+        "motor_torque": 193.06,
+        "energy_consumption": 19.2,
+        "outside_temp": 12.78,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 39.74,
+        "battery_temp": 27.21,
+        "motor_torque": 102.02,
+        "energy_consumption": 8.95,
+        "outside_temp": 29.26,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 35.04,
+        "battery_temp": 31.37,
+        "motor_torque": 143.97,
+        "energy_consumption": 15.25,
+        "outside_temp": 32.34,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 74.93,
+        "battery_temp": 28.54,
+        "motor_torque": 108.24,
+        "energy_consumption": 11.31,
+        "outside_temp": 16.78,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 54.98,
+        "battery_temp": 25.7,
+        "motor_torque": 234.29,
+        "energy_consumption": 10.18,
+        "outside_temp": 11.84,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 80.66,
+        "battery_temp": 43.6,
+        "motor_torque": 175.14,
+        "energy_consumption": 15.41,
+        "outside_temp": 34.66,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 65.3,
+        "battery_temp": 44.1,
+        "motor_torque": 182.46,
+        "energy_consumption": 9.66,
+        "outside_temp": 11.92,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 69.76,
+        "battery_temp": 25.76,
+        "motor_torque": 248.72,
+        "energy_consumption": 13.21,
+        "outside_temp": 26.38,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 28.5,
+        "battery_temp": 38.72,
+        "motor_torque": 212.0,
+        "energy_consumption": 8.3,
+        "outside_temp": 12.09,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 67.38,
+        "battery_temp": 26.77,
+        "motor_torque": 234.73,
+        "energy_consumption": 18.12,
+        "outside_temp": 34.23,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 60.6,
+        "battery_temp": 42.61,
+        "motor_torque": 132.34,
+        "energy_consumption": 14.13,
+        "outside_temp": 30.7,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 61.7,
+        "battery_temp": 31.47,
+        "motor_torque": 245.45,
+        "energy_consumption": 9.9,
+        "outside_temp": 20.33,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 52.09,
+        "battery_temp": 27.53,
+        "motor_torque": 117.53,
+        "energy_consumption": 13.91,
+        "outside_temp": 20.13,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 53.45,
+        "battery_temp": 31.03,
+        "motor_torque": 166.53,
+        "energy_consumption": 19.15,
+        "outside_temp": 16.31,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 87.85,
+        "battery_temp": 34.96,
+        "motor_torque": 209.82,
+        "energy_consumption": 11.25,
+        "outside_temp": 15.29,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 66.39,
+        "battery_temp": 27.54,
+        "motor_torque": 146.57,
+        "energy_consumption": 8.17,
+        "outside_temp": 30.41,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 29.08,
+        "battery_temp": 37.94,
+        "motor_torque": 137.8,
+        "energy_consumption": 10.26,
+        "outside_temp": 27.15,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 78.78,
+        "battery_temp": 25.93,
+        "motor_torque": 264.25,
+        "energy_consumption": 18.18,
+        "outside_temp": 12.02,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 49.68,
+        "battery_temp": 28.97,
+        "motor_torque": 145.88,
+        "energy_consumption": 19.47,
+        "outside_temp": 30.69,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 65.58,
+        "battery_temp": 40.94,
+        "motor_torque": 170.71,
+        "energy_consumption": 19.74,
+        "outside_temp": 11.55,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 61.48,
+        "battery_temp": 25.89,
+        "motor_torque": 250.31,
+        "energy_consumption": 17.45,
+        "outside_temp": 10.62,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 43.17,
+        "battery_temp": 32.97,
+        "motor_torque": 238.71,
+        "energy_consumption": 13.11,
+        "outside_temp": 33.7,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 71.93,
+        "battery_temp": 29.25,
+        "motor_torque": 245.21,
+        "energy_consumption": 10.71,
+        "outside_temp": 25.41,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 79.92,
+        "battery_temp": 36.63,
+        "motor_torque": 157.24,
+        "energy_consumption": 8.04,
+        "outside_temp": 20.41,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 68.96,
+        "battery_temp": 34.58,
+        "motor_torque": 164.99,
+        "energy_consumption": 16.92,
+        "outside_temp": 33.27,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 73.22,
+        "battery_temp": 40.47,
+        "motor_torque": 124.93,
+        "energy_consumption": 15.23,
+        "outside_temp": 12.24,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 44.5,
+        "battery_temp": 28.9,
+        "motor_torque": 177.02,
+        "energy_consumption": 16.36,
+        "outside_temp": 14.15,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 68.09,
+        "battery_temp": 44.4,
+        "motor_torque": 192.26,
+        "energy_consumption": 19.03,
+        "outside_temp": 17.14,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 57.15,
+        "battery_temp": 27.9,
+        "motor_torque": 236.28,
+        "energy_consumption": 8.9,
+        "outside_temp": 16.3,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 44.35,
+        "battery_temp": 36.12,
+        "motor_torque": 269.61,
+        "energy_consumption": 14.62,
+        "outside_temp": 28.65,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 93.68,
+        "battery_temp": 31.09,
+        "motor_torque": 135.69,
+        "energy_consumption": 8.78,
+        "outside_temp": 24.69,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 83.97,
+        "battery_temp": 29.85,
+        "motor_torque": 273.92,
+        "energy_consumption": 14.6,
+        "outside_temp": 19.18,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 86.44,
+        "battery_temp": 38.54,
+        "motor_torque": 154.57,
+        "energy_consumption": 17.36,
+        "outside_temp": 25.75,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 95.99,
+        "battery_temp": 39.82,
+        "motor_torque": 206.42,
+        "energy_consumption": 11.27,
+        "outside_temp": 25.22,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 27.21,
+        "battery_temp": 31.47,
+        "motor_torque": 160.04,
+        "energy_consumption": 11.52,
+        "outside_temp": 18.19,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 49.57,
+        "battery_temp": 42.8,
+        "motor_torque": 249.48,
+        "energy_consumption": 13.63,
+        "outside_temp": 28.73,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 99.13,
+        "battery_temp": 31.52,
+        "motor_torque": 155.6,
+        "energy_consumption": 18.74,
+        "outside_temp": 16.45,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 31.61,
+        "battery_temp": 43.52,
+        "motor_torque": 252.58,
+        "energy_consumption": 9.99,
+        "outside_temp": 11.96,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 23.77,
+        "battery_temp": 34.94,
+        "motor_torque": 185.2,
+        "energy_consumption": 11.09,
+        "outside_temp": 33.9,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 33.38,
+        "battery_temp": 41.52,
+        "motor_torque": 272.99,
+        "energy_consumption": 9.88,
+        "outside_temp": 12.87,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 24.61,
+        "battery_temp": 38.2,
+        "motor_torque": 201.6,
+        "energy_consumption": 15.24,
+        "outside_temp": 22.17,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 55.58,
+        "battery_temp": 27.09,
+        "motor_torque": 152.3,
+        "energy_consumption": 12.9,
+        "outside_temp": 22.92,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 91.31,
+        "battery_temp": 28.94,
+        "motor_torque": 191.54,
+        "energy_consumption": 11.9,
+        "outside_temp": 15.44,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 99.56,
+        "battery_temp": 43.04,
+        "motor_torque": 274.36,
+        "energy_consumption": 17.77,
+        "outside_temp": 27.04,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 53.49,
+        "battery_temp": 30.13,
+        "motor_torque": 185.19,
+        "energy_consumption": 11.7,
+        "outside_temp": 11.46,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 33.74,
+        "battery_temp": 34.68,
+        "motor_torque": 228.12,
+        "energy_consumption": 18.43,
+        "outside_temp": 34.99,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 40.62,
+        "battery_temp": 39.87,
+        "motor_torque": 227.24,
+        "energy_consumption": 12.62,
+        "outside_temp": 26.2,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 25.63,
+        "battery_temp": 40.99,
+        "motor_torque": 161.75,
+        "energy_consumption": 15.48,
+        "outside_temp": 17.95,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 28.52,
+        "battery_temp": 31.04,
+        "motor_torque": 140.29,
+        "energy_consumption": 16.57,
+        "outside_temp": 12.54,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 55.31,
+        "battery_temp": 25.3,
+        "motor_torque": 145.99,
+        "energy_consumption": 10.9,
+        "outside_temp": 17.5,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 44.42,
+        "battery_temp": 40.56,
+        "motor_torque": 133.7,
+        "energy_consumption": 10.82,
+        "outside_temp": 18.44,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 44.56,
+        "battery_temp": 31.26,
+        "motor_torque": 268.53,
+        "energy_consumption": 10.34,
+        "outside_temp": 29.8,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 75.98,
+        "battery_temp": 40.1,
+        "motor_torque": 268.52,
+        "energy_consumption": 9.14,
+        "outside_temp": 23.73,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 24.92,
+        "battery_temp": 44.14,
+        "motor_torque": 155.93,
+        "energy_consumption": 12.52,
+        "outside_temp": 34.13,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 38.45,
+        "battery_temp": 38.97,
+        "motor_torque": 128.87,
+        "energy_consumption": 14.35,
+        "outside_temp": 11.53,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 43.06,
+        "battery_temp": 34.77,
+        "motor_torque": 158.82,
+        "energy_consumption": 18.41,
+        "outside_temp": 26.09,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 42.65,
+        "battery_temp": 28.49,
+        "motor_torque": 213.62,
+        "energy_consumption": 8.11,
+        "outside_temp": 12.86,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 59.29,
+        "battery_temp": 30.51,
+        "motor_torque": 286.85,
+        "energy_consumption": 12.05,
+        "outside_temp": 32.9,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 33.89,
+        "battery_temp": 44.78,
+        "motor_torque": 193.87,
+        "energy_consumption": 16.58,
+        "outside_temp": 23.77,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 79.6,
+        "battery_temp": 40.17,
+        "motor_torque": 167.68,
+        "energy_consumption": 17.11,
+        "outside_temp": 31.8,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 37.7,
+        "battery_temp": 40.87,
+        "motor_torque": 106.19,
+        "energy_consumption": 14.85,
+        "outside_temp": 32.02,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 50.59,
+        "battery_temp": 33.41,
+        "motor_torque": 107.28,
+        "energy_consumption": 9.37,
+        "outside_temp": 22.08,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 49.22,
+        "battery_temp": 31.52,
+        "motor_torque": 104.57,
+        "energy_consumption": 8.56,
+        "outside_temp": 11.26,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 62.05,
+        "battery_temp": 44.4,
+        "motor_torque": 286.53,
+        "energy_consumption": 19.69,
+        "outside_temp": 20.57,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 81.76,
+        "battery_temp": 36.73,
+        "motor_torque": 244.85,
+        "energy_consumption": 10.78,
+        "outside_temp": 34.28,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 83.32,
+        "battery_temp": 30.54,
+        "motor_torque": 244.85,
+        "energy_consumption": 8.73,
+        "outside_temp": 25.22,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 52.59,
+        "battery_temp": 39.47,
+        "motor_torque": 128.79,
+        "energy_consumption": 15.15,
+        "outside_temp": 17.8,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 54.86,
+        "battery_temp": 34.54,
+        "motor_torque": 292.64,
+        "energy_consumption": 15.34,
+        "outside_temp": 24.58,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 56.98,
+        "battery_temp": 28.79,
+        "motor_torque": 298.51,
+        "energy_consumption": 18.83,
+        "outside_temp": 19.27,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 81.75,
+        "battery_temp": 32.86,
+        "motor_torque": 174.07,
+        "energy_consumption": 16.1,
+        "outside_temp": 28.06,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 59.25,
+        "battery_temp": 26.37,
+        "motor_torque": 270.91,
+        "energy_consumption": 19.42,
+        "outside_temp": 23.35,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 24.46,
+        "battery_temp": 28.87,
+        "motor_torque": 115.64,
+        "energy_consumption": 18.82,
+        "outside_temp": 31.52,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 37.23,
+        "battery_temp": 36.7,
+        "motor_torque": 265.88,
+        "energy_consumption": 11.54,
+        "outside_temp": 27.97,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 25.53,
+        "battery_temp": 26.86,
+        "motor_torque": 197.41,
+        "energy_consumption": 12.77,
+        "outside_temp": 34.09,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 87.62,
+        "battery_temp": 35.55,
+        "motor_torque": 197.45,
+        "energy_consumption": 10.51,
+        "outside_temp": 32.53,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 26.34,
+        "battery_temp": 43.41,
+        "motor_torque": 155.06,
+        "energy_consumption": 14.13,
+        "outside_temp": 13.84,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 66.44,
+        "battery_temp": 25.82,
+        "motor_torque": 100.97,
+        "energy_consumption": 14.89,
+        "outside_temp": 34.35,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 74.13,
+        "battery_temp": 43.97,
+        "motor_torque": 192.12,
+        "energy_consumption": 17.98,
+        "outside_temp": 32.18,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 20.86,
+        "battery_temp": 33.1,
+        "motor_torque": 137.7,
+        "energy_consumption": 16.37,
+        "outside_temp": 10.48,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 83.98,
+        "battery_temp": 42.41,
+        "motor_torque": 220.83,
+        "energy_consumption": 17.54,
+        "outside_temp": 34.59,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 95.91,
+        "battery_temp": 30.07,
+        "motor_torque": 103.16,
+        "energy_consumption": 8.23,
+        "outside_temp": 32.35,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 44.11,
+        "battery_temp": 28.3,
+        "motor_torque": 195.82,
+        "energy_consumption": 10.75,
+        "outside_temp": 29.89,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 27.56,
+        "battery_temp": 37.3,
+        "motor_torque": 201.88,
+        "energy_consumption": 8.46,
+        "outside_temp": 34.13,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 50.86,
+        "battery_temp": 27.57,
+        "motor_torque": 233.15,
+        "energy_consumption": 13.45,
+        "outside_temp": 29.75,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 41.7,
+        "battery_temp": 30.53,
+        "motor_torque": 213.31,
+        "energy_consumption": 13.81,
+        "outside_temp": 13.85,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 60.31,
+        "battery_temp": 42.56,
+        "motor_torque": 155.39,
+        "energy_consumption": 12.87,
+        "outside_temp": 21.28,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 84.66,
+        "battery_temp": 36.35,
+        "motor_torque": 292.7,
+        "energy_consumption": 10.1,
+        "outside_temp": 34.06,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 78.79,
+        "battery_temp": 35.62,
+        "motor_torque": 223.46,
+        "energy_consumption": 14.91,
+        "outside_temp": 32.2,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 99.84,
+        "battery_temp": 41.26,
+        "motor_torque": 275.12,
+        "energy_consumption": 9.83,
+        "outside_temp": 17.98,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 81.14,
+        "battery_temp": 37.21,
+        "motor_torque": 203.34,
+        "energy_consumption": 8.16,
+        "outside_temp": 11.94,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 27.09,
+        "battery_temp": 37.22,
+        "motor_torque": 205.38,
+        "energy_consumption": 11.24,
+        "outside_temp": 31.96,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 28.08,
+        "battery_temp": 43.81,
+        "motor_torque": 199.93,
+        "energy_consumption": 10.57,
+        "outside_temp": 33.26,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 67.78,
+        "battery_temp": 40.22,
+        "motor_torque": 133.94,
+        "energy_consumption": 18.81,
+        "outside_temp": 30.21,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 39.49,
+        "battery_temp": 41.77,
+        "motor_torque": 133.02,
+        "energy_consumption": 9.95,
+        "outside_temp": 29.61,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 30.09,
+        "battery_temp": 35.34,
+        "motor_torque": 285.66,
+        "energy_consumption": 12.41,
+        "outside_temp": 18.02,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 77.7,
+        "battery_temp": 35.06,
+        "motor_torque": 178.76,
+        "energy_consumption": 9.81,
+        "outside_temp": 26.23,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 57.33,
+        "battery_temp": 37.74,
+        "motor_torque": 253.41,
+        "energy_consumption": 18.31,
+        "outside_temp": 26.54,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 37.55,
+        "battery_temp": 40.48,
+        "motor_torque": 159.07,
+        "energy_consumption": 8.68,
+        "outside_temp": 29.6,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 56.25,
+        "battery_temp": 31.35,
+        "motor_torque": 261.0,
+        "energy_consumption": 8.41,
+        "outside_temp": 33.93,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 88.11,
+        "battery_temp": 44.77,
+        "motor_torque": 246.59,
+        "energy_consumption": 8.41,
+        "outside_temp": 17.18,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 67.04,
+        "battery_temp": 30.86,
+        "motor_torque": 245.49,
+        "energy_consumption": 15.83,
+        "outside_temp": 34.82,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 54.51,
+        "battery_temp": 35.22,
+        "motor_torque": 132.69,
+        "energy_consumption": 17.5,
+        "outside_temp": 29.61,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 59.17,
+        "battery_temp": 29.99,
+        "motor_torque": 175.01,
+        "energy_consumption": 16.9,
+        "outside_temp": 34.33,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 90.28,
+        "battery_temp": 32.76,
+        "motor_torque": 194.58,
+        "energy_consumption": 13.57,
+        "outside_temp": 34.34,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 72.61,
+        "battery_temp": 35.62,
+        "motor_torque": 145.67,
+        "energy_consumption": 8.66,
+        "outside_temp": 22.27,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 91.78,
+        "battery_temp": 32.07,
+        "motor_torque": 288.2,
+        "energy_consumption": 17.42,
+        "outside_temp": 10.33,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 52.94,
+        "battery_temp": 26.17,
+        "motor_torque": 286.93,
+        "energy_consumption": 19.48,
+        "outside_temp": 11.42,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 27.63,
+        "battery_temp": 40.28,
+        "motor_torque": 116.56,
+        "energy_consumption": 9.87,
+        "outside_temp": 24.17,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 24.83,
+        "battery_temp": 42.32,
+        "motor_torque": 259.16,
+        "energy_consumption": 10.92,
+        "outside_temp": 27.91,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 42.32,
+        "battery_temp": 36.22,
+        "motor_torque": 124.17,
+        "energy_consumption": 12.17,
+        "outside_temp": 33.76,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 96.63,
+        "battery_temp": 40.01,
+        "motor_torque": 215.43,
+        "energy_consumption": 9.2,
+        "outside_temp": 10.51,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 77.18,
+        "battery_temp": 32.91,
+        "motor_torque": 267.82,
+        "energy_consumption": 19.88,
+        "outside_temp": 21.08,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 37.38,
+        "battery_temp": 30.54,
+        "motor_torque": 253.57,
+        "energy_consumption": 15.72,
+        "outside_temp": 19.14,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 94.64,
+        "battery_temp": 32.67,
+        "motor_torque": 127.4,
+        "energy_consumption": 15.33,
+        "outside_temp": 34.61,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 88.61,
+        "battery_temp": 28.55,
+        "motor_torque": 267.04,
+        "energy_consumption": 14.15,
+        "outside_temp": 14.38,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 25.99,
+        "battery_temp": 28.5,
+        "motor_torque": 127.88,
+        "energy_consumption": 13.06,
+        "outside_temp": 19.98,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 87.54,
+        "battery_temp": 40.78,
+        "motor_torque": 196.79,
+        "energy_consumption": 13.46,
+        "outside_temp": 21.63,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 81.09,
+        "battery_temp": 42.96,
+        "motor_torque": 239.69,
+        "energy_consumption": 19.46,
+        "outside_temp": 12.75,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 25.93,
+        "battery_temp": 27.11,
+        "motor_torque": 140.33,
+        "energy_consumption": 13.77,
+        "outside_temp": 20.4,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 98.73,
+        "battery_temp": 43.59,
+        "motor_torque": 120.01,
+        "energy_consumption": 15.47,
+        "outside_temp": 16.92,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 89.57,
+        "battery_temp": 25.9,
+        "motor_torque": 168.83,
+        "energy_consumption": 9.43,
+        "outside_temp": 19.2,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 87.59,
+        "battery_temp": 42.24,
+        "motor_torque": 176.72,
+        "energy_consumption": 16.36,
+        "outside_temp": 27.59,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 27.55,
+        "battery_temp": 43.91,
+        "motor_torque": 144.89,
+        "energy_consumption": 16.12,
+        "outside_temp": 30.87,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 81.85,
+        "battery_temp": 26.24,
+        "motor_torque": 113.33,
+        "energy_consumption": 14.2,
+        "outside_temp": 34.56,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 88.92,
+        "battery_temp": 28.47,
+        "motor_torque": 299.36,
+        "energy_consumption": 11.05,
+        "outside_temp": 28.52,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 49.22,
+        "battery_temp": 36.92,
+        "motor_torque": 285.9,
+        "energy_consumption": 12.54,
+        "outside_temp": 25.44,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 35.93,
+        "battery_temp": 42.11,
+        "motor_torque": 290.02,
+        "energy_consumption": 10.73,
+        "outside_temp": 12.33,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 63.91,
+        "battery_temp": 26.26,
+        "motor_torque": 170.5,
+        "energy_consumption": 19.67,
+        "outside_temp": 23.56,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 95.48,
+        "battery_temp": 38.01,
+        "motor_torque": 251.08,
+        "energy_consumption": 12.4,
+        "outside_temp": 30.11,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 35.98,
+        "battery_temp": 40.71,
+        "motor_torque": 119.69,
+        "energy_consumption": 19.23,
+        "outside_temp": 22.95,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 43.28,
+        "battery_temp": 41.87,
+        "motor_torque": 269.91,
+        "energy_consumption": 8.97,
+        "outside_temp": 12.17,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 62.06,
+        "battery_temp": 36.53,
+        "motor_torque": 252.2,
+        "energy_consumption": 9.22,
+        "outside_temp": 24.25,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 23.7,
+        "battery_temp": 42.07,
+        "motor_torque": 225.17,
+        "energy_consumption": 17.09,
+        "outside_temp": 30.45,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 85.35,
+        "battery_temp": 40.85,
+        "motor_torque": 208.84,
+        "energy_consumption": 14.99,
+        "outside_temp": 30.53,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 68.73,
+        "battery_temp": 27.97,
+        "motor_torque": 152.92,
+        "energy_consumption": 18.48,
+        "outside_temp": 15.15,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 30.98,
+        "battery_temp": 34.93,
+        "motor_torque": 136.85,
+        "energy_consumption": 14.54,
+        "outside_temp": 29.4,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 70.61,
+        "battery_temp": 38.34,
+        "motor_torque": 160.99,
+        "energy_consumption": 9.39,
+        "outside_temp": 17.16,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 62.75,
+        "battery_temp": 31.0,
+        "motor_torque": 167.53,
+        "energy_consumption": 16.2,
+        "outside_temp": 32.95,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 76.92,
+        "battery_temp": 38.91,
+        "motor_torque": 243.39,
+        "energy_consumption": 8.8,
+        "outside_temp": 16.34,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 55.13,
+        "battery_temp": 32.54,
+        "motor_torque": 280.25,
+        "energy_consumption": 12.12,
+        "outside_temp": 33.11,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 48.45,
+        "battery_temp": 43.97,
+        "motor_torque": 108.12,
+        "energy_consumption": 9.85,
+        "outside_temp": 11.21,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 55.38,
+        "battery_temp": 44.12,
+        "motor_torque": 100.34,
+        "energy_consumption": 19.3,
+        "outside_temp": 22.45,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 95.2,
+        "battery_temp": 28.8,
+        "motor_torque": 142.05,
+        "energy_consumption": 9.24,
+        "outside_temp": 29.11,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 85.44,
+        "battery_temp": 29.68,
+        "motor_torque": 293.42,
+        "energy_consumption": 12.27,
+        "outside_temp": 33.56,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 23.67,
+        "battery_temp": 42.81,
+        "motor_torque": 255.12,
+        "energy_consumption": 15.19,
+        "outside_temp": 21.68,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 86.67,
+        "battery_temp": 40.72,
+        "motor_torque": 260.6,
+        "energy_consumption": 17.36,
+        "outside_temp": 13.57,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 32.69,
+        "battery_temp": 44.96,
+        "motor_torque": 185.35,
+        "energy_consumption": 11.16,
+        "outside_temp": 18.9,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 81.55,
+        "battery_temp": 31.41,
+        "motor_torque": 122.84,
+        "energy_consumption": 16.74,
+        "outside_temp": 17.6,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 62.5,
+        "battery_temp": 43.66,
+        "motor_torque": 207.27,
+        "energy_consumption": 13.52,
+        "outside_temp": 13.34,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 89.58,
+        "battery_temp": 44.14,
+        "motor_torque": 295.14,
+        "energy_consumption": 13.14,
+        "outside_temp": 15.37,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 50.56,
+        "battery_temp": 36.07,
+        "motor_torque": 193.32,
+        "energy_consumption": 18.58,
+        "outside_temp": 13.32,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 45.53,
+        "battery_temp": 40.83,
+        "motor_torque": 198.6,
+        "energy_consumption": 9.38,
+        "outside_temp": 27.74,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 86.08,
+        "battery_temp": 32.68,
+        "motor_torque": 101.13,
+        "energy_consumption": 16.02,
+        "outside_temp": 30.57,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 52.27,
+        "battery_temp": 26.01,
+        "motor_torque": 161.03,
+        "energy_consumption": 14.56,
+        "outside_temp": 14.06,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 86.35,
+        "battery_temp": 35.0,
+        "motor_torque": 244.48,
+        "energy_consumption": 13.48,
+        "outside_temp": 13.77,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 38.29,
+        "battery_temp": 30.33,
+        "motor_torque": 199.71,
+        "energy_consumption": 14.66,
+        "outside_temp": 15.85,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 69.11,
+        "battery_temp": 34.15,
+        "motor_torque": 268.51,
+        "energy_consumption": 12.48,
+        "outside_temp": 31.97,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 31.89,
+        "battery_temp": 41.2,
+        "motor_torque": 111.92,
+        "energy_consumption": 15.28,
+        "outside_temp": 10.94,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 63.1,
+        "battery_temp": 25.38,
+        "motor_torque": 230.81,
+        "energy_consumption": 8.47,
+        "outside_temp": 15.97,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 34.65,
+        "battery_temp": 31.69,
+        "motor_torque": 136.2,
+        "energy_consumption": 9.94,
+        "outside_temp": 29.79,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 68.44,
+        "battery_temp": 28.26,
+        "motor_torque": 119.24,
+        "energy_consumption": 8.99,
+        "outside_temp": 34.47,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 99.06,
+        "battery_temp": 42.63,
+        "motor_torque": 292.92,
+        "energy_consumption": 8.04,
+        "outside_temp": 23.62,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 26.06,
+        "battery_temp": 40.12,
+        "motor_torque": 221.49,
+        "energy_consumption": 16.04,
+        "outside_temp": 20.11,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 35.94,
+        "battery_temp": 35.54,
+        "motor_torque": 163.0,
+        "energy_consumption": 10.41,
+        "outside_temp": 14.47,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 77.31,
+        "battery_temp": 33.2,
+        "motor_torque": 262.94,
+        "energy_consumption": 15.97,
+        "outside_temp": 33.57,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 67.25,
+        "battery_temp": 37.41,
+        "motor_torque": 227.76,
+        "energy_consumption": 15.59,
+        "outside_temp": 30.53,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 90.7,
+        "battery_temp": 25.43,
+        "motor_torque": 205.55,
+        "energy_consumption": 9.42,
+        "outside_temp": 24.71,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 85.99,
+        "battery_temp": 43.88,
+        "motor_torque": 249.56,
+        "energy_consumption": 9.66,
+        "outside_temp": 24.33,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 51.27,
+        "battery_temp": 26.67,
+        "motor_torque": 198.45,
+        "energy_consumption": 10.02,
+        "outside_temp": 32.09,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 20.51,
+        "battery_temp": 28.34,
+        "motor_torque": 164.7,
+        "energy_consumption": 14.87,
+        "outside_temp": 34.57,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 76.6,
+        "battery_temp": 35.69,
+        "motor_torque": 207.5,
+        "energy_consumption": 13.3,
+        "outside_temp": 31.77,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 83.98,
+        "battery_temp": 25.57,
+        "motor_torque": 215.25,
+        "energy_consumption": 15.06,
+        "outside_temp": 19.44,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 41.76,
+        "battery_temp": 37.15,
+        "motor_torque": 218.32,
+        "energy_consumption": 14.04,
+        "outside_temp": 20.24,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 82.15,
+        "battery_temp": 40.0,
+        "motor_torque": 161.98,
+        "energy_consumption": 19.56,
+        "outside_temp": 20.28,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 71.59,
+        "battery_temp": 29.14,
+        "motor_torque": 146.06,
+        "energy_consumption": 9.52,
+        "outside_temp": 14.49,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 30.07,
+        "battery_temp": 44.95,
+        "motor_torque": 139.29,
+        "energy_consumption": 13.85,
+        "outside_temp": 10.3,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 90.32,
+        "battery_temp": 26.94,
+        "motor_torque": 192.19,
+        "energy_consumption": 13.48,
+        "outside_temp": 19.41,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 88.76,
+        "battery_temp": 30.63,
+        "motor_torque": 221.66,
+        "energy_consumption": 15.61,
+        "outside_temp": 12.31,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 93.54,
+        "battery_temp": 36.4,
+        "motor_torque": 227.4,
+        "energy_consumption": 10.1,
+        "outside_temp": 17.51,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 73.43,
+        "battery_temp": 26.34,
+        "motor_torque": 103.84,
+        "energy_consumption": 12.07,
+        "outside_temp": 11.84,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 59.26,
+        "battery_temp": 33.53,
+        "motor_torque": 191.17,
+        "energy_consumption": 16.36,
+        "outside_temp": 27.95,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 47.75,
+        "battery_temp": 41.34,
+        "motor_torque": 273.38,
+        "energy_consumption": 17.56,
+        "outside_temp": 11.07,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 41.59,
+        "battery_temp": 43.81,
+        "motor_torque": 261.67,
+        "energy_consumption": 18.31,
+        "outside_temp": 25.73,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 59.3,
+        "battery_temp": 31.21,
+        "motor_torque": 230.81,
+        "energy_consumption": 15.84,
+        "outside_temp": 33.19,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 31.29,
+        "battery_temp": 37.59,
+        "motor_torque": 254.5,
+        "energy_consumption": 10.72,
+        "outside_temp": 20.68,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 43.35,
+        "battery_temp": 31.87,
+        "motor_torque": 105.28,
+        "energy_consumption": 13.62,
+        "outside_temp": 25.64,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 26.69,
+        "battery_temp": 26.85,
+        "motor_torque": 100.53,
+        "energy_consumption": 15.83,
+        "outside_temp": 17.96,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 20.78,
+        "battery_temp": 40.22,
+        "motor_torque": 277.76,
+        "energy_consumption": 9.79,
+        "outside_temp": 31.99,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 46.07,
+        "battery_temp": 34.98,
+        "motor_torque": 292.65,
+        "energy_consumption": 17.92,
+        "outside_temp": 25.59,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 60.76,
+        "battery_temp": 29.53,
+        "motor_torque": 259.2,
+        "energy_consumption": 13.99,
+        "outside_temp": 25.29,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 84.22,
+        "battery_temp": 31.81,
+        "motor_torque": 157.65,
+        "energy_consumption": 19.11,
+        "outside_temp": 11.63,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 76.49,
+        "battery_temp": 43.56,
+        "motor_torque": 196.25,
+        "energy_consumption": 8.38,
+        "outside_temp": 21.58,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 20.05,
+        "battery_temp": 25.17,
+        "motor_torque": 286.34,
+        "energy_consumption": 9.64,
+        "outside_temp": 13.68,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 43.21,
+        "battery_temp": 39.07,
+        "motor_torque": 215.31,
+        "energy_consumption": 10.17,
+        "outside_temp": 16.8,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 85.07,
+        "battery_temp": 33.67,
+        "motor_torque": 133.78,
+        "energy_consumption": 8.95,
+        "outside_temp": 23.88,
+        "timestamp": "2025-12-05 18:28:00"
+    },
+    {
+        "vehicle_id": "EV001",
+        "speed": 22.32,
+        "battery_temp": 32.89,
+        "motor_torque": 158.3,
+        "energy_consumption": 9.54,
+        "outside_temp": 18.77,
+        "timestamp": "2025-12-05 18:28:00"
+    }
+]
