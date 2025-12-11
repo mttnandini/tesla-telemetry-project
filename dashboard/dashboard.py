@@ -4,38 +4,40 @@ import plotly.express as px
 import os
 
 # --------------------------------------------------------
-# LOAD PROCESSED DATA
+# FIXED FILE PATHS (WORKS LOCALLY + STREAMLIT CLOUD)
 # --------------------------------------------------------
-data_path = "data/processed/clean_data.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-if not os.path.exists(data_path):
-    st.error("❌ Clean data file not found. Please run ETL or anomaly model first.")
+DATA_PATH = os.path.abspath(os.path.join(BASE_DIR, "..", "data", "processed", "clean_data.csv"))
+FORECAST_PATH = os.path.abspath(os.path.join(BASE_DIR, "..", "data", "processed", "forecast_results.csv"))
+
+# --------------------------------------------------------
+# LOAD DATA
+# --------------------------------------------------------
+if not os.path.exists(DATA_PATH):
+    st.error("❌ clean_data.csv NOT FOUND. Make sure the file is inside data/processed/")
     st.stop()
 
-df = pd.read_csv(data_path)
+df = pd.read_csv(DATA_PATH)
 
 # --------------------------------------------------------
 # TITLE
 # --------------------------------------------------------
 st.title("🚗 Tesla Telemetry Dashboard")
-st.write("Real-time analytics and monitoring for vehicle safety.")
+st.write("Real-time vehicle monitoring • anomaly detection • forecasting")
 
 # --------------------------------------------------------
-# SECTION 1 — BASIC STATS
+# SECTION 1 — SUMMARY STATISTICS
 # --------------------------------------------------------
 st.subheader("📊 Vehicle Summary Statistics")
 st.write(df.describe())
 
 # --------------------------------------------------------
-# SECTION 2 — ANOMALY DETECTION
+# SECTION 2 — ANOMALY VISUALIZATION
 # --------------------------------------------------------
 st.subheader("🚨 Anomaly Detection")
 
-if "anomaly" not in df.columns:
-    st.warning("⚠️ No anomaly column found. Run the anomaly model first.")
-else:
-    st.write("### Detected Anomalies (Red = Issue)")
-
+if "anomaly" in df.columns:
     fig_anom = px.scatter(
         df,
         x="speed",
@@ -45,38 +47,39 @@ else:
         title="Anomaly Detection Scatter"
     )
     st.plotly_chart(fig_anom)
-    st.success("Anomaly results loaded successfully! ✅")
+else:
+    st.warning("⚠️ No anomaly column found. Run anomaly model first.")
 
-# --------------------------------------------------------------
-# SECTION 3 – BATTERY TEMPERATURE FORECASTING
-# --------------------------------------------------------------
-st.subheader("📉 Battery Temperature Forecasting")
+# --------------------------------------------------------
+# SECTION 3 — FORECASTING
+# --------------------------------------------------------
+st.subheader("📉 Battery Temperature Forecast")
 
-import os
+if os.path.exists(FORECAST_PATH):
+    forecast_df = pd.read_csv(FORECAST_PATH)
+    st.write(forecast_df.head())
 
-# ALWAYS resolve absolute path to avoid Streamlit path issues
-forecast_file = os.path.join(os.path.dirname(__file__), "..", "data", "processed", "forecast_results.csv")
-forecast_file = os.path.abspath(forecast_file)
-
-st.write(f"🔎 Looking for file at: `{forecast_file}`")
-
-if os.path.exists(forecast_file):
-    forecast_df = pd.read_csv(forecast_file)
-
-    st.success("Forecasting results loaded successfully! 🚀")
-    st.write("### Forecast Data Preview")
-    st.dataframe(forecast_df.head())
-
-    # Create forecast line chart
-    fig_forecast = px.line(
+    fig_fc = px.line(
         forecast_df,
         x="timestamp",
         y="forecast_battery_temp",
         title="Battery Temperature Forecast"
     )
-    st.plotly_chart(fig_forecast)
-
+    st.plotly_chart(fig_fc)
 else:
-    st.error("❌ Forecast file NOT FOUND. Please run forecasting_models.py again.")
+    st.error("❌ forecast_results.csv NOT FOUND. Run forecasting model again.")
 
+# --------------------------------------------------------
+# SECTION 4 — USER INPUT SAFETY CHECK
+# --------------------------------------------------------
+st.subheader("🛠️ Try Your Own Input Values")
 
+speed = st.slider("Speed (km/h)", 0, 200, 50)
+battery = st.slider("Battery Temp (°C)", 0, 120, 40)
+motor = st.slider("Motor Temp (°C)", 0, 200, 90)
+
+if st.button("Run Safety Check"):
+    if battery > 80 or motor > 140:
+        st.error("⚠️ Warning: Unsafe Operation Detected!")
+    else:
+        st.success("✔️ Normal — Safe Operation")
